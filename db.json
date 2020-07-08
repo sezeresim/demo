@@ -1,14 +1,41 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {
+      "id": 1,
+      "testName": "Test 1 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": "Başlamadı"
+    },
+    {
+      "id": 2,
+      "testName": "Test 2",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": "Başlamadı"
+    },
+    {
+      "id": 3,
+      "testName": "Test 3 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": "Başlamadı"
+    },
+    {
+      "id": 4,
+      "testName": "Test 4 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": "Başlamadı"
+    }
+  ]
 }
+
